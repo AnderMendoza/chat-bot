@@ -1,76 +1,93 @@
-# Importamos las librerías necesarias
 import json
+import tkinter as tk
 from difflib import get_close_matches
 
-# Definimos las funciones necesarias para el chatbot
+# Variables para almacenar la pregunta actual y los datos
+current_question = ""
+data = {"question": []}
 
-# Cargamos los datos de un archivo JSON y los devolvemos como un diccionario
 def load_data(file_path: str) -> dict:
-    with open(file_path, "r") as file:
-        data: dict = json.load(file)
+    try:
+        with open(file_path, "r") as file:
+            data = json.load(file)
+    except FileNotFoundError:
+        data = {"question": []}
     return data
 
-
-# Guardamos los datos proporcionados en formato JSON en la ruta de archivo especificada
 def save_data(file_path: str, data: dict):
     with open(file_path, "w") as file:
         json.dump(data, file, indent=2)
 
-
-# Buscamos la mejor coincidencia entre una pregunta y una lista de preguntas
 def find_best_match(user_question: str, questions: list[str]) -> str | None:
     matches: list = get_close_matches(user_question, questions, n=1, cutoff=0.6)
     return matches[0] if matches else None
 
-
-# Obtenemos la respuesta asociada a una pregunta en un conjunto de datos
 def get_answer_for_question(question: str, data: dict) -> str | None:
     for q in data["question"]:
         if q["question"] == question:
             return q["answer"]
 
+def handle_user_input():
+    global current_question, data
+    user_input = user_input_entry.get()
+    user_input_entry.delete(0, tk.END)
 
-# Definimos la función principal del chatbot
-def chat_bot():
-    # cargar la base de conocimiento
-    # Cargamos la base de conocimiento
-    data: dict = load_data("data.json")
-
-    # mientras funcione...
-    # Mientras funcione...
-    while True:
-        # ingrese una pregunta
-        # Ingresamos una pregunta
-        user_input: str = input("Tu: ")
-
-        # si ingresa "quit" entonces cierra el programa
-        # Si ingresamos "quit" entonces cierra el programa
-        if user_input.lower() == "quit":
-            print(f"Bot: ¡Adiós!")
-            break
-
-        # buscar si existe alguna pregunta relacionada
-        # Buscamos si existe alguna pregunta relacionada
-        best_match: str | None = find_best_match(
-            user_input, [q["question"] for q in data["question"]]
-        )
-
-        # si existe: enseñar la pregunta y respuesta
-        # Si existe: enseñar la pregunta y respuesta
+    if user_input.lower() == "quit":
+        root.quit()  # Cerramos la aplicación
+    else:
+        best_match = find_best_match(user_input, [q["question"] for q in data["question"]])
+        chat_log.config(state=tk.NORMAL)
+        chat_log.insert(tk.END, f"Tu: {user_input}\n")
         if best_match:
-            answer: str = get_answer_for_question(best_match, data)
-            print(f"Bot: {answer}")
-
-        # si no existe: responder NO LO SÉ
-        # Si no existe se puede proporcionar una respuesta para que el bot guarde la respuesta y pregunta en la base de conocimiento
+            answer = get_answer_for_question(best_match, data)
+            chat_log.insert(tk.END, f"Bot: {answer}\n")
         else:
-            print("Bot: No sé la respuesta. ¿Puede enseñármela?")
-            new_answer: str = input('Ingrese la respuesta o "skip" para saltearla: ')
+            chat_log.insert(tk.END, "Bot: No sé la respuesta. ¿Puede enseñármela?\n")
+            current_question = user_input
+            user_input_entry.config(state=tk.NORMAL)
+            user_input_entry.delete(0, tk.END)  # Limpiamos la entrada
+            user_input_entry.bind('<Return>', handle_new_answer)
+            user_input_entry.focus_set()  # Enfocamos el campo de entrada
 
-            if new_answer.lower() != "skip":
-                data["question"].append({"question": user_input, "answer": new_answer})
-                save_data("data.json", data)
-                print("Bot: ¡Gracias! ¡He aprendido algo nuevo!")
 
+def handle_new_answer(event):
+    global current_question, data
+    new_answer = user_input_entry.get()
+    user_input_entry.delete(0, tk.END)
 
-chat_bot()
+    if new_answer.lower() != "skip" and current_question:
+        data["question"].append({"question": current_question, "answer": new_answer})
+        current_question = ""  # Limpiamos la variable
+
+        # Mostramos el mensaje de agradecimiento
+        chat_log.config(state=tk.NORMAL)
+        chat_log.insert(tk.END, "Bot: ¡Gracias! ¡He aprendido algo nuevo!\n")
+        chat_log.config(state=tk.DISABLED)
+        save_data("data.json", data)  # Guardamos los datos actualizados
+
+data = load_data("data.json")
+root = tk.Tk()
+root.title("Chatbot")
+
+intro_label = tk.Label(root, text="Consejo: Usa el boton enviar para insertar las preguntas y el boton enter de tu teclado para guardar las respuestas", font=("Arial", 16))
+
+intro_label.pack()
+
+frame = tk.Frame(root)
+frame.pack(pady=10)
+
+scrollbar = tk.Scrollbar(frame)
+scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+
+chat_log = tk.Text(frame, wrap=tk.WORD, yscrollcommand=scrollbar.set)
+chat_log.pack()
+
+user_input_entry = tk.Entry(root, font=("Arial", 14))
+user_input_entry.pack(pady=10)
+
+send_button = tk.Button(root, text="Enviar", command=handle_user_input)
+send_button.pack()
+
+chat_log.config(state=tk.DISABLED)
+
+root.mainloop()
