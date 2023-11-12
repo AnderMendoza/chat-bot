@@ -32,6 +32,21 @@ def handle_user_input():
     user_input = user_input_entry.get()
     user_input_entry.delete(0, tk.END)
 
+# Lista de palabras prohibidas
+forbidden_words = ["palabra1", "palabra2", "palabra3"]  # Agrega las palabras que deseas prohibir
+
+def handle_user_input():
+    global current_question, data
+    user_input = user_input_entry.get()
+    user_input_entry.delete(0, tk.END)
+
+    # Verificar si la entrada contiene palabras prohibidas
+    if any(forbidden_word in user_input.lower() for forbidden_word in forbidden_words):
+        chat_log.config(state=tk.NORMAL)
+        chat_log.insert(tk.END, "Bot: ¡Advertencia! Has utilizado una palabra prohibida.\n")
+        chat_log.config(state=tk.DISABLED)
+        return  # No procesar la entrada prohibida
+
     if user_input.lower() == "quit":
         root.quit()  # Cerramos la aplicación
     else:
