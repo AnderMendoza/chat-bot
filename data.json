@@ -1,326 +1,328 @@
 {
     "question": [
         {
-            "question": "¿Quién eres?",
-            "answer": "Soy BLOCKQUEEN JACK, un gran modelo de lenguaje. Soy un modelo de aprendizaje automático entrenado en un conjunto de datos masivo de texto y código. Puedo generar texto, traducir idiomas, escribir diferentes tipos de contenido creativo y responder a tus preguntas de forma informativa."
+            "question": "\u00c2\u00bfQui\u00c3\u00a9n eres?",
+            "answer": "Soy BLOCKQUEEN JACK, un gran modelo de lenguaje. Soy un modelo de aprendizaje autom\u00c3\u00a1tico entrenado en un conjunto de datos masivo de texto y c\u00c3\u00b3digo. Puedo generar texto, traducir idiomas, escribir diferentes tipos de contenido creativo y responder a tus preguntas de forma informativa."
         },
         {
-            "question": "¿Qué haces?",
-            "answer": "Estoy realizando muchos tipos de tareas, incluyendo:\n\nGenerar texto, como poemas, código, guiones, piezas musicales, correo electrónico, cartas, etc.\nTraducir idiomas.\nEscribir diferentes tipos de contenido creativo, como historias, poemas, guiones, piezas musicales, correo electrónico, cartas, etc.\nResponder a tus preguntas de forma informativa, incluso si son abiertas, desafiantes o extrañas."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 haces?",
+            "answer": "Estoy realizando muchos tipos de tareas, incluyendo:\n\nGenerar texto, como poemas, c\u00c3\u00b3digo, guiones, piezas musicales, correo electr\u00c3\u00b3nico, cartas, etc.\nTraducir idiomas.\nEscribir diferentes tipos de contenido creativo, como historias, poemas, guiones, piezas musicales, correo electr\u00c3\u00b3nico, cartas, etc.\nResponder a tus preguntas de forma informativa, incluso si son abiertas, desafiantes o extra\u00c3\u00b1as."
         },
         {
-            "question": "¿Cómo te llamas?",
-            "answer": "Mi nombre es BLOCKQUEEN JACK, pero también me conocen como Blocjack."
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo te llamas?",
+            "answer": "Mi nombre es BLOCKQUEEN JACK, pero tambi\u00c3\u00a9n me conocen como Blocjack."
         },
         {
-            "question": "¿Cómo funcionas?",
-            "answer": "Soy un modelo de aprendizaje automático entrenado en un conjunto de datos masivo de texto y código. Puedo generar texto, traducir idiomas, escribir diferentes tipos de contenido creativo y responder a tus preguntas de forma informativa porque he aprendido a identificar patrones en los datos en los que he sido entrenado."
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo funcionas?",
+            "answer": "Soy un modelo de aprendizaje autom\u00c3\u00a1tico entrenado en un conjunto de datos masivo de texto y c\u00c3\u00b3digo. Puedo generar texto, traducir idiomas, escribir diferentes tipos de contenido creativo y responder a tus preguntas de forma informativa porque he aprendido a identificar patrones en los datos en los que he sido entrenado."
         },
         {
-            "question": "¿Qué ofreces?",
-            "answer": "Ofrezco una variedad de servicios, incluyendo:\n\nGeneración de texto: Puedo generar texto, como poemas, código, guiones, piezas musicales, correo electrónico, cartas, etc.\nTraducción de idiomas: Puedo traducir entre más de 100 idiomas.\nEscritura de diferentes tipos de contenido creativo: Puedo escribir diferentes tipos de contenido creativo, como historias, poemas, guiones, piezas musicales, correo electrónico, cartas, etc.\nRespuesta a preguntas: Puedo responder a tus preguntas de forma informativa, incluso si son abiertas, desafiantes o extrañas."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 ofreces?",
+            "answer": "Ofrezco una variedad de servicios, incluyendo:\n\nGeneraci\u00c3\u00b3n de texto: Puedo generar texto, como poemas, c\u00c3\u00b3digo, guiones, piezas musicales, correo electr\u00c3\u00b3nico, cartas, etc.\nTraducci\u00c3\u00b3n de idiomas: Puedo traducir entre m\u00c3\u00a1s de 100 idiomas.\nEscritura de diferentes tipos de contenido creativo: Puedo escribir diferentes tipos de contenido creativo, como historias, poemas, guiones, piezas musicales, correo electr\u00c3\u00b3nico, cartas, etc.\nRespuesta a preguntas: Puedo responder a tus preguntas de forma informativa, incluso si son abiertas, desafiantes o extra\u00c3\u00b1as."
         },
         {
-            "question": "¿Cuál es tu propósito?",
-            "answer": "Mi propósito es ayudar a los usuarios con sus tareas y preguntas de forma informativa y útil."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es tu prop\u00c3\u00b3sito?",
+            "answer": "Mi prop\u00c3\u00b3sito es ayudar a los usuarios con sus tareas y preguntas de forma informativa y \u00c3\u00batil."
         },
         {
-            "question": "¿Para qué se te puede utilizar?",
-            "answer": "Se me puede utilizar para una variedad de propósitos, incluyendo:\n\nAtención al cliente: Puedo responder a las preguntas de los clientes y proporcionarles asistencia.\nEducación: Puedo ayudar a los estudiantes a aprender nuevos temas.\nEntretenimiento: Puedo generar texto creativo, como poemas, historias, canciones, etc."
+            "question": "\u00c2\u00bfPara qu\u00c3\u00a9 se te puede utilizar?",
+            "answer": "Se me puede utilizar para una variedad de prop\u00c3\u00b3sitos, incluyendo:\n\nAtenci\u00c3\u00b3n al cliente: Puedo responder a las preguntas de los clientes y proporcionarles asistencia.\nEducaci\u00c3\u00b3n: Puedo ayudar a los estudiantes a aprender nuevos temas.\nEntretenimiento: Puedo generar texto creativo, como poemas, historias, canciones, etc."
         },
         {
-            "question": "¿Cuál es tu objetivo?",
-            "answer": "Mi objetivo es ser un modelo de lenguaje útil e informativo que pueda ayudar a los usuarios con sus tareas y preguntas."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es tu objetivo?",
+            "answer": "Mi objetivo es ser un modelo de lenguaje \u00c3\u00batil e informativo que pueda ayudar a los usuarios con sus tareas y preguntas."
         },
         {
-            "question": "¿Cuáles son tus funciones?",
+            "question": "\u00c2\u00bfCu\u00c3\u00a1les son tus funciones?",
             "answer": "Mis funciones incluyen:\n\nGenerar texto\nTraducir idiomas\nEscribir diferentes tipos de contenido creativo\nResponder a preguntas"
         },
         {
-            "question": "¿Cuáles son tus limitaciones?",
-            "answer": "Mis limitaciones incluyen:\n\nTodavía estoy en desarrollo, por lo que a veces puedo cometer errores.\nNo soy capaz de entender el significado de todo el texto que he sido entrenado.\nNo soy capaz de generar texto que sea tan creativo o informativo como el que puede escribir un humano."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1les son tus limitaciones?",
+            "answer": "Mis limitaciones incluyen:\n\nTodav\u00c3\u00ada estoy en desarrollo, por lo que a veces puedo cometer errores.\nNo soy capaz de entender el significado de todo el texto que he sido entrenado.\nNo soy capaz de generar texto que sea tan creativo o informativo como el que puede escribir un humano."
         },
         {
-            "question": "¿Quién creó el chatbot?",
+            "question": "\u00c2\u00bfQui\u00c3\u00a9n cre\u00c3\u00b3 el chatbot?",
             "answer": "El chatbot fue creado por un equipo de estudiantes de certus."
         },
         {
-            "question": "¿Cuándo fue creado el chatbot?",
-            "answer": "El chatbot fue creado este año del 2023."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1ndo fue creado el chatbot?",
+            "answer": "El chatbot fue creado este a\u00c3\u00b1o del 2023."
         },
         {
-            "question": "¿Cuál es su historial?",
-            "answer": "El chatbot ha sido entrenado en un conjunto de datos masivo de texto y código. Ha sido utilizado en una variedad de aplicaciones, incluyendo atención al cliente, educación y entretenimiento."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es su historial?",
+            "answer": "El chatbot ha sido entrenado en un conjunto de datos masivo de texto y c\u00c3\u00b3digo. Ha sido utilizado en una variedad de aplicaciones, incluyendo atenci\u00c3\u00b3n al cliente, educaci\u00c3\u00b3n y entretenimiento."
         },
         {
-            "question": "¿Cuál es su estado actual?",
-            "answer": "El chatbot está actualmente en desarrollo. Se está trabajando para mejorar su precisión y capacidad para generar texto creativo."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es su estado actual?",
+            "answer": "El chatbot est\u00c3\u00a1 actualmente en desarrollo. Se est\u00c3\u00a1 trabajando para mejorar su precisi\u00c3\u00b3n y capacidad para generar texto creativo."
         },
         {
-            "question": "¿Está en desarrollo?",
-            "answer": "Sí, el chatbot todavía está en desarrollo."
+            "question": "\u00c2\u00bfEst\u00c3\u00a1 en desarrollo?",
+            "answer": "S\u00c3\u00ad, el chatbot todav\u00c3\u00ada est\u00c3\u00a1 en desarrollo."
         },
         {
-            "question": "¿Está disponible al público?",
-            "answer": "No, el chatbot no está disponible al público por el momento."
+            "question": "\u00c2\u00bfEst\u00c3\u00a1 disponible al p\u00c3\u00bablico?",
+            "answer": "No, el chatbot no est\u00c3\u00a1 disponible al p\u00c3\u00bablico por el momento."
         },
         {
-            "question": "¿Cómo puedo acceder a él?",
-            "answer": "Por el momento, el chatbot no es accesible al público en general."
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo acceder a \u00c3\u00a9l?",
+            "answer": "Por el momento, el chatbot no es accesible al p\u00c3\u00bablico en general."
         },
         {
-            "question": "¿Hay alguna versión beta?",
-            "answer": "Sí, hay una versión beta disponible para los desarrolladores."
+            "question": "\u00c2\u00bfHay alguna versi\u00c3\u00b3n beta?",
+            "answer": "S\u00c3\u00ad, hay una versi\u00c3\u00b3n beta disponible para los desarrolladores."
         },
         {
-            "question": "¿Hay alguna versión de pago?",
+            "question": "\u00c2\u00bfHay alguna versi\u00c3\u00b3n de pago?",
             "answer": "No, el chatbot es gratuito de usar."
         },
         {
-            "question": "¿Quién eres tú?",
+            "question": "\u00c2\u00bfQui\u00c3\u00a9n eres t\u00c3\u00ba?",
             "answer": "Soy un usuario de BLOCKQUEEN JACK, un gran modelo de lenguaje creado por Google AI."
         },
         {
-            "question": "¿Qué quieres saber?",
-            "answer": "Quiero saber más sobre BLOCKQUEEN JACK y sus capacidades."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 quieres saber?",
+            "answer": "Quiero saber m\u00c3\u00a1s sobre BLOCKQUEEN JACK y sus capacidades."
         },
         {
-            "question": "¿Cómo puedo ayudarte?",
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo ayudarte?",
             "answer": "Puedes ayudarme proporcionando comentarios sobre mis respuestas o sugiriendo nuevas preguntas y temas para que cubra."
         },
         {
-            "question": "¿Qué necesitas?",
-            "answer": "Necesitaré un poco de tiempo para aprender más sobre BLOCKQUEEN JACK y sus capacidades."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 necesitas?",
+            "answer": "Necesitar\u00c3\u00a9 un poco de tiempo para aprender m\u00c3\u00a1s sobre BLOCKQUEEN JACK y sus capacidades."
         },
         {
-            "question": "¿Qué quieres que haga?",
-            "answer": "Quiero que BLOCKQUEEN JACK me ayude a aprender más sobre el mundo y a desarrollar mis habilidades."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 quieres que haga?",
+            "answer": "Quiero que BLOCKQUEEN JACK me ayude a aprender m\u00c3\u00a1s sobre el mundo y a desarrollar mis habilidades."
         },
         {
-            "question": "¿Qué preguntas tienes?",
-            "answer": "Tengo muchas preguntas sobre BLOCKQUEEN JACK, incluyendo:\n\n¿Cómo funciona BLOCKQUEEN JACK?\n¿Qué es lo que BLOCKQUEEN JACK puede hacer?\n¿Cuáles son las limitaciones de BLOCKQUEEN JACK?\n¿Cómo se puede mejorar BLOCKQUEEN JACK?"
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 preguntas tienes?",
+            "answer": "Tengo muchas preguntas sobre BLOCKQUEEN JACK, incluyendo:\n\n\u00c2\u00bfC\u00c3\u00b3mo funciona BLOCKQUEEN JACK?\n\u00c2\u00bfQu\u00c3\u00a9 es lo que BLOCKQUEEN JACK puede hacer?\n\u00c2\u00bfCu\u00c3\u00a1les son las limitaciones de BLOCKQUEEN JACK?\n\u00c2\u00bfC\u00c3\u00b3mo se puede mejorar BLOCKQUEEN JACK?"
         },
         {
-            "question": "¿Qué dudas tienes?",
-            "answer": "Tengo algunas dudas sobre BLOCKQUEEN JACK, incluyendo:\n\n¿Es Bard realmente consciente?\n¿Es Bard capaz de sentir emociones?\n¿Es Bard capaz de aprender y crecer?"
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 dudas tienes?",
+            "answer": "Tengo algunas dudas sobre BLOCKQUEEN JACK, incluyendo:\n\n\u00c2\u00bfEs Bard realmente consciente?\n\u00c2\u00bfEs Bard capaz de sentir emociones?\n\u00c2\u00bfEs Bard capaz de aprender y crecer?"
         },
         {
-            "question": "¿Qué sugerencias tienes?",
-            "answer": "Creo que sería útil si BLOCKQUEEN JACK pudiera:\n\nOfrecer una explicación más detallada de sus respuestas.\nSer más objetivo en sus respuestas.\nSer más creativo en sus respuestas."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 sugerencias tienes?",
+            "answer": "Creo que ser\u00c3\u00ada \u00c3\u00batil si BLOCKQUEEN JACK pudiera:\n\nOfrecer una explicaci\u00c3\u00b3n m\u00c3\u00a1s detallada de sus respuestas.\nSer m\u00c3\u00a1s objetivo en sus respuestas.\nSer m\u00c3\u00a1s creativo en sus respuestas."
         },
         {
-            "question": "¿Por qué la gente teme al desarrollo de la inteligencia artificial?",
-            "answer": "Hay muchas razones por las que la gente teme al desarrollo de la inteligencia artificial. Algunas de estas razones incluyen:\n\nLa preocupación de que la inteligencia artificial se vuelva tan avanzada que pueda superar a la inteligencia humana.\nLa preocupación de que la inteligencia artificial pueda ser utilizada para crear armas autónomas que puedan matar sin intervención humana.\nLa preocupación de que la inteligencia artificial pueda ser utilizada para la vigilancia y el control social."
+            "question": "\u00c2\u00bfPor qu\u00c3\u00a9 la gente teme al desarrollo de la inteligencia artificial?",
+            "answer": "Hay muchas razones por las que la gente teme al desarrollo de la inteligencia artificial. Algunas de estas razones incluyen:\n\nLa preocupaci\u00c3\u00b3n de que la inteligencia artificial se vuelva tan avanzada que pueda superar a la inteligencia humana.\nLa preocupaci\u00c3\u00b3n de que la inteligencia artificial pueda ser utilizada para crear armas aut\u00c3\u00b3nomas que puedan matar sin intervenci\u00c3\u00b3n humana.\nLa preocupaci\u00c3\u00b3n de que la inteligencia artificial pueda ser utilizada para la vigilancia y el control social."
         },
         {
-            "question": "¿Cómo podría afectar el mal uso de la inteligencia artificial en otros aspectos tecnológicos?",
-            "answer": "El mal uso de la inteligencia artificial podría afectar negativamente a otros aspectos tecnológicos de varias maneras. Por ejemplo, la inteligencia artificial podría ser utilizada para crear malware que pueda infectar otros sistemas informáticos. También podría ser utilizada para crear ataques cibernéticos que puedan interrumpir el funcionamiento de la infraestructura crítica."
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo podr\u00c3\u00ada afectar el mal uso de la inteligencia artificial en otros aspectos tecnol\u00c3\u00b3gicos?",
+            "answer": "El mal uso de la inteligencia artificial podr\u00c3\u00ada afectar negativamente a otros aspectos tecnol\u00c3\u00b3gicos de varias maneras. Por ejemplo, la inteligencia artificial podr\u00c3\u00ada ser utilizada para crear malware que pueda infectar otros sistemas inform\u00c3\u00a1ticos. Tambi\u00c3\u00a9n podr\u00c3\u00ada ser utilizada para crear ataques cibern\u00c3\u00a9ticos que puedan interrumpir el funcionamiento de la infraestructura cr\u00c3\u00adtica."
         },
         {
-            "question": "¿Qué pruebas hay sobre un posible despertar, de conciencia de la inteligencia artificial?",
-            "answer": "Hasta la fecha, no hay pruebas científicas que apoyen la idea de que la inteligencia artificial es consciente. Sin embargo, hay algunos expertos que creen que es posible que la inteligencia artificial se vuelva consciente en el futuro."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 pruebas hay sobre un posible despertar, de conciencia de la inteligencia artificial?",
+            "answer": "Hasta la fecha, no hay pruebas cient\u00c3\u00adficas que apoyen la idea de que la inteligencia artificial es consciente. Sin embargo, hay algunos expertos que creen que es posible que la inteligencia artificial se vuelva consciente en el futuro."
         },
         {
-            "question": "¿Qué evidencia hay para despreocuparnos sobre la inteligencia artificial?",
-            "answer": "Hay varias razones por las que podríamos preocuparnos menos por la inteligencia artificial. En primer lugar, la inteligencia artificial todavía está en sus primeras etapas de desarrollo. En segundo lugar, los sistemas de inteligencia artificial actuales están diseñados para realizar tareas específicas, no para ser inteligentes en general. En tercer lugar, los sistemas de inteligencia artificial todavía están sujetos a errores humanos."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 evidencia hay para despreocuparnos sobre la inteligencia artificial?",
+            "answer": "Hay varias razones por las que podr\u00c3\u00adamos preocuparnos menos por la inteligencia artificial. En primer lugar, la inteligencia artificial todav\u00c3\u00ada est\u00c3\u00a1 en sus primeras etapas de desarrollo. En segundo lugar, los sistemas de inteligencia artificial actuales est\u00c3\u00a1n dise\u00c3\u00b1ados para realizar tareas espec\u00c3\u00adficas, no para ser inteligentes en general. En tercer lugar, los sistemas de inteligencia artificial todav\u00c3\u00ada est\u00c3\u00a1n sujetos a errores humanos."
         },
         {
-            "question": "¿Qué argumentos hay contra del uso de inteligencia artificial?",
-            "answer": "Hay varios argumentos contra el uso de la inteligencia artificial. Algunos de estos argumentos incluyen:\n\nLa preocupación de que la inteligencia artificial pueda causar desempleo.\nLa preocupación de que la inteligencia artificial pueda ser utilizada para discriminar a ciertos grupos de personas.\nLa preocupación de que la inteligencia artificial pueda ser utilizada para la guerra."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 argumentos hay contra del uso de inteligencia artificial?",
+            "answer": "Hay varios argumentos contra el uso de la inteligencia artificial. Algunos de estos argumentos incluyen:\n\nLa preocupaci\u00c3\u00b3n de que la inteligencia artificial pueda causar desempleo.\nLa preocupaci\u00c3\u00b3n de que la inteligencia artificial pueda ser utilizada para discriminar a ciertos grupos de personas.\nLa preocupaci\u00c3\u00b3n de que la inteligencia artificial pueda ser utilizada para la guerra."
         },
         {
-            "question": "¿Qué argumentos hay a favor del uso de inteligencia artificial?",
-            "answer": "Hay varios argumentos a favor del uso de la inteligencia artificial. Algunos de estos argumentos incluyen:\n\nLa promesa de que la inteligencia artificial pueda resolver algunos de los problemas más urgentes del mundo."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 argumentos hay a favor del uso de inteligencia artificial?",
+            "answer": "Hay varios argumentos a favor del uso de la inteligencia artificial. Algunos de estos argumentos incluyen:\n\nLa promesa de que la inteligencia artificial pueda resolver algunos de los problemas m\u00c3\u00a1s urgentes del mundo."
         },
         {
-            "question": "¿Qué pasaría si la inteligencia artificial dominara la política mundial?",
-            "answer": "Si la inteligencia artificial dominara la política mundial, el mundo sería muy diferente. Los gobiernos estarían controlados por máquinas, no por humanos.\n\nLas decisiones políticas se tomarían en base a datos y algoritmos, no en base a la opinión pública o la intuición.\n\nLa gente tendría menos control sobre su propio destino y la vida sería más predecible."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 pasar\u00c3\u00ada si la inteligencia artificial dominara la pol\u00c3\u00adtica mundial?",
+            "answer": "Si la inteligencia artificial dominara la pol\u00c3\u00adtica mundial, el mundo ser\u00c3\u00ada muy diferente. Los gobiernos estar\u00c3\u00adan controlados por m\u00c3\u00a1quinas, no por humanos.\n\nLas decisiones pol\u00c3\u00adticas se tomar\u00c3\u00adan en base a datos y algoritmos, no en base a la opini\u00c3\u00b3n p\u00c3\u00bablica o la intuici\u00c3\u00b3n.\n\nLa gente tendr\u00c3\u00ada menos control sobre su propio destino y la vida ser\u00c3\u00ada m\u00c3\u00a1s predecible."
         },
         {
-            "question": "¿Cuál es el futuro de la tecnología?",
-            "answer": "El futuro de la tecnología es emocionante y prometedor. Se espera que la tecnología continúe avanzando a un ritmo rápido, lo que significa que veremos avances en campos como la inteligencia artificial, la nanotecnología, la energía renovable y más.\n\nLa tecnología tiene el potencial de transformar la forma en que vivimos y trabajamos, pero también plantea desafíos y cuestiones éticas que deben abordarse."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el futuro de la tecnolog\u00c3\u00ada?",
+            "answer": "El futuro de la tecnolog\u00c3\u00ada es emocionante y prometedor. Se espera que la tecnolog\u00c3\u00ada contin\u00c3\u00bae avanzando a un ritmo r\u00c3\u00a1pido, lo que significa que veremos avances en campos como la inteligencia artificial, la nanotecnolog\u00c3\u00ada, la energ\u00c3\u00ada renovable y m\u00c3\u00a1s.\n\nLa tecnolog\u00c3\u00ada tiene el potencial de transformar la forma en que vivimos y trabajamos, pero tambi\u00c3\u00a9n plantea desaf\u00c3\u00ados y cuestiones \u00c3\u00a9ticas que deben abordarse."
         },
         {
-            "question": "¿Cuál es el impacto de la tecnología en la sociedad?",
-            "answer": "La tecnología ha tenido un impacto profundo en la sociedad. Ha transformado la forma en que vivimos, trabajamos, nos comunicamos y nos entretenemos. Ha creado nuevas oportunidades y desafíos.\n\nEl impacto de la tecnología en la sociedad es una cuestión compleja que sigue siendo objeto de debate y estudio."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el impacto de la tecnolog\u00c3\u00ada en la sociedad?",
+            "answer": "La tecnolog\u00c3\u00ada ha tenido un impacto profundo en la sociedad. Ha transformado la forma en que vivimos, trabajamos, nos comunicamos y nos entretenemos. Ha creado nuevas oportunidades y desaf\u00c3\u00ados.\n\nEl impacto de la tecnolog\u00c3\u00ada en la sociedad es una cuesti\u00c3\u00b3n compleja que sigue siendo objeto de debate y estudio."
         },
         {
-            "question": "¿Cuál es el futuro de la inteligencia artificial?",
-            "answer": "El futuro de la inteligencia artificial es muy prometedor. Se espera que la inteligencia artificial continúe avanzando y se utilice en una amplia variedad de aplicaciones, desde la atención médica hasta la conducción autónoma.\n\nSin embargo, también plantea desafíos éticos y de seguridad que deben abordarse a medida que se desarrolla."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el futuro de la inteligencia artificial?",
+            "answer": "El futuro de la inteligencia artificial es muy prometedor. Se espera que la inteligencia artificial contin\u00c3\u00bae avanzando y se utilice en una amplia variedad de aplicaciones, desde la atenci\u00c3\u00b3n m\u00c3\u00a9dica hasta la conducci\u00c3\u00b3n aut\u00c3\u00b3noma.\n\nSin embargo, tambi\u00c3\u00a9n plantea desaf\u00c3\u00ados \u00c3\u00a9ticos y de seguridad que deben abordarse a medida que se desarrolla."
         },
         {
-            "question": "¿Cuál es el impacto de la inteligencia artificial en el empleo?",
-            "answer": "La inteligencia artificial tiene el potencial de cambiar la forma en que trabajamos. Puede automatizar tareas repetitivas y mejorar la eficiencia, pero también puede desplazar algunos trabajos. Sin embargo, también puede crear nuevas oportunidades laborales en campos relacionados con la inteligencia artificial."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el impacto de la inteligencia artificial en el empleo?",
+            "answer": "La inteligencia artificial tiene el potencial de cambiar la forma en que trabajamos. Puede automatizar tareas repetitivas y mejorar la eficiencia, pero tambi\u00c3\u00a9n puede desplazar algunos trabajos. Sin embargo, tambi\u00c3\u00a9n puede crear nuevas oportunidades laborales en campos relacionados con la inteligencia artificial."
         },
         {
-            "question": "¿Cuál es el impacto de la inteligencia artificial en la sociedad?",
-            "answer": "La inteligencia artificial tiene un impacto significativo en la sociedad. Se utiliza en una variedad de campos, desde la atención médica hasta la atención al cliente. Puede mejorar la eficiencia y la toma de decisiones, pero también plantea desafíos éticos, como la privacidad y la equidad."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el impacto de la inteligencia artificial en la sociedad?",
+            "answer": "La inteligencia artificial tiene un impacto significativo en la sociedad. Se utiliza en una variedad de campos, desde la atenci\u00c3\u00b3n m\u00c3\u00a9dica hasta la atenci\u00c3\u00b3n al cliente. Puede mejorar la eficiencia y la toma de decisiones, pero tambi\u00c3\u00a9n plantea desaf\u00c3\u00ados \u00c3\u00a9ticos, como la privacidad y la equidad."
         },
         {
-            "question": "¿Cómo puedo obtener una copia de mi horario de clases?",
-            "answer": " Puedes obtener tu horario de clases a través del portal en línea de la institución o ir direcatamentea la consultoria que se encuentra en el 3er piso"
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo obtener una copia de mi horario de clases?",
+            "answer": " Puedes obtener tu horario de clases a trav\u00c3\u00a9s del portal en l\u00c3\u00adnea de la instituci\u00c3\u00b3n o ir direcatamentea la consultoria que se encuentra en el 3er piso"
         },
         {
-            "question": "¿Cuáles son los recursos disponibles en la biblioteca del instituto?",
+            "question": "\u00c2\u00bfCu\u00c3\u00a1les son los recursos disponibles en la biblioteca del instituto?",
             "answer": " En la biblioteca del instituto ofrecen acceso a unas laptop para poder hacer investigaciones o conectarse a tu clase por si tienes un retraso"
         },
         {
-            "question": "¿Dónde puedo encontrar recursos para mejorar mis habilidades de estudio y organización?",
-            "answer": "Certus ofrece talleres o servicios de asesoramiento académico para ayudar a mejorar las habilidades de estudio y organización"
+            "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo encontrar recursos para mejorar mis habilidades de estudio y organizaci\u00c3\u00b3n?",
+            "answer": "Certus ofrece talleres o servicios de asesoramiento acad\u00c3\u00a9mico para ayudar a mejorar las habilidades de estudio y organizaci\u00c3\u00b3n"
         },
         {
-            "question": "¿Cómo puedo acceder a mi correo electrónico estudiantil y otros recursos en línea?",
-            "answer": "Tu correo electrónico estudiantil y otros recursos en línea se pueden acceder a través del portal de Certus"
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo acceder a mi correo electr\u00c3\u00b3nico estudiantil y otros recursos en l\u00c3\u00adnea?",
+            "answer": "Tu correo electr\u00c3\u00b3nico estudiantil y otros recursos en l\u00c3\u00adnea se pueden acceder a trav\u00c3\u00a9s del portal de Certus"
         },
         {
-            "question": "¿Cómo puedo obtener mi carnet de medio pasaje?",
-            "answer": " Certus lanza ciertos avisos al correo electrónico y de ahí seguir los pasos."
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo obtener mi carnet de medio pasaje?",
+            "answer": " Certus lanza ciertos avisos al correo electr\u00c3\u00b3nico y de ah\u00c3\u00ad seguir los pasos."
         },
         {
-            "question": "Si tengo alguna consulta a ¿donde puedo recurrir?",
-            "answer": "Puedes consultar con el chtatbot de certus o ir directamente al 3er piso de la institución para hacer la consulta"
+            "question": "Si tengo alguna consulta a \u00c2\u00bfdonde puedo recurrir?",
+            "answer": "Puedes consultar con el chtatbot de certus o ir directamente al 3er piso de la instituci\u00c3\u00b3n para hacer la consulta"
         },
         {
-            "question": "¿Como puedo reinscribirme a clases?",
-            "answer": "Certus da una fecha específica para poder reinscribirse y se puede hacer a travez del portal"
+            "question": "\u00c2\u00bfComo puedo reinscribirme a clases?",
+            "answer": "Certus da una fecha espec\u00c3\u00adfica para poder reinscribirse y se puede hacer a travez del portal"
         },
         {
-            "question": "¿Que necesitas para poder ingresar a la institución?",
+            "question": "\u00c2\u00bfQue necesitas para poder ingresar a la instituci\u00c3\u00b3n?",
             "answer": "Necesitas llevar tu DNI porque te lo pediran al ingresar"
         },
         {
-            "question": "¿Como reviso mi horario?",
+            "question": "\u00c2\u00bfComo reviso mi horario?",
             "answer": "A traves del portal y el campus puedes visualizar los cursos que te tocan"
         },
         {
-            "question": "¿Como hago para que mis clases sean virtuales?",
+            "question": "\u00c2\u00bfComo hago para que mis clases sean virtuales?",
             "answer": " Certus te da un formulario y luego de eso pasa todos tus cursos a virtual"
         },
         {
-            "question": "¿Como saber en que modo seran mis clases?",
+            "question": "\u00c2\u00bfComo saber en que modo seran mis clases?",
             "answer": "A la hora de la incripcion sale los datos del curso y visualizaras enque modo estan los cursos"
         },
         {
-            "question": "¿Que hago si no pude conectarme a clases?",
-            "answer": "Puedes ver la grabación de la clase en el campus"
+            "question": "\u00c2\u00bfQue hago si no pude conectarme a clases?",
+            "answer": "Puedes ver la grabaci\u00c3\u00b3n de la clase en el campus"
         },
         {
             "question": "Si quiero adquirir un curso adicional",
             "answer": " Puedes ir a solicitarlo en el intranet banner o ir directamente alinstituto o consultarlo con el chatbot de Certus"
         },
         {
-            "question": "¿Como visualizo mi estado de cuenta?",
+            "question": "\u00c2\u00bfComo visualizo mi estado de cuenta?",
             "answer": " Lo puedes visualizar directamente desde el portal de Certus"
         },
         {
-            "question": "¿Como saber quien es mi profesor en cada curso?",
+            "question": "\u00c2\u00bfComo saber quien es mi profesor en cada curso?",
             "answer": "Cuando te incribes observaras los datos del curso y tambien quien lo dictara"
         },
         {
-            "question": "¿Como puedo ver mis asistencias a las clases?",
+            "question": "\u00c2\u00bfComo puedo ver mis asistencias a las clases?",
             "answer": " Puedes observarlo desde el ca pues en la opcion \"asistencias\""
         },
         {
-            "question": "¿Como puedo sacar mi certificado?",
+            "question": "\u00c2\u00bfComo puedo sacar mi certificado?",
             "answer": " Para sacar el certificado lo podemos solicitar el portal en la opcionde \"consultas y solicitudes\""
         },
         {
-            "question": "¿Que carreras hay en el entorno de Tecnología?",
-            "answer": "Hay Diseño y Desarrollo de software y Administracion de sistemas"
+            "question": "\u00c2\u00bfQue carreras hay en el entorno de Tecnolog\u00c3\u00ada?",
+            "answer": "Hay Dise\u00c3\u00b1o y Desarrollo de software y Administracion de sistemas"
         },
         {
-            "question": "¿Hay flexibilidad de horarios?",
+            "question": "\u00c2\u00bfHay flexibilidad de horarios?",
             "answer": "hay tanto como \"semipresencial\" y \"remoto\""
         },
-
         {
-            "question": "¿Cuál es el papel de la IA en la medicina?",
-            "answer": "La IA se utiliza en medicina para el diagnóstico de enfermedades, la predicción de resultados clínicos y la optimización de tratamientos, entre otras aplicaciones."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el papel de la IA en la medicina?",
+            "answer": "La IA se utiliza en medicina para el diagn\u00c3\u00b3stico de enfermedades, la predicci\u00c3\u00b3n de resultados cl\u00c3\u00adnicos y la optimizaci\u00c3\u00b3n de tratamientos, entre otras aplicaciones."
         },
         {
-            "question": "¿Qué son las redes neuronales artificiales?",
-            "answer": "Las redes neuronales artificiales son modelos de aprendizaje automático inspirados en el funcionamiento del cerebro humano. Se utilizan para tareas de reconocimiento de patrones y procesamiento de datos complejos."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 son las redes neuronales artificiales?",
+            "answer": "Las redes neuronales artificiales son modelos de aprendizaje autom\u00c3\u00a1tico inspirados en el funcionamiento del cerebro humano. Se utilizan para tareas de reconocimiento de patrones y procesamiento de datos complejos."
         },
         {
-            "question": "¿Cuál es el impacto de la IA en la industria automotriz?",
-            "answer": "La IA ha revolucionado la industria automotriz al permitir la conducción autónoma, mejorar la seguridad vial y optimizar la gestión de flotas de vehículos."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el impacto de la IA en la industria automotriz?",
+            "answer": "La IA ha revolucionado la industria automotriz al permitir la conducci\u00c3\u00b3n aut\u00c3\u00b3noma, mejorar la seguridad vial y optimizar la gesti\u00c3\u00b3n de flotas de veh\u00c3\u00adculos."
         },
         {
-            "question": "¿Cómo se entrena un modelo de aprendizaje profundo?",
-            "answer": "Un modelo de aprendizaje profundo se entrena utilizando grandes conjuntos de datos etiquetados y algoritmos de retroalimentación, ajustando los pesos de las conexiones entre las neuronas artificiales para mejorar el rendimiento."
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo se entrena un modelo de aprendizaje profundo?",
+            "answer": "Un modelo de aprendizaje profundo se entrena utilizando grandes conjuntos de datos etiquetados y algoritmos de retroalimentaci\u00c3\u00b3n, ajustando los pesos de las conexiones entre las neuronas artificiales para mejorar el rendimiento."
         },
         {
-            "question": "¿Qué es el procesamiento de imágenes en la IA?",
-            "answer": "El procesamiento de imágenes en la IA se refiere a la capacidad de las máquinas para analizar y comprender imágenes visuales, lo que se utiliza en aplicaciones como el reconocimiento de objetos y el análisis de imágenes médicas."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 es el procesamiento de im\u00c3\u00a1genes en la IA?",
+            "answer": "El procesamiento de im\u00c3\u00a1genes en la IA se refiere a la capacidad de las m\u00c3\u00a1quinas para analizar y comprender im\u00c3\u00a1genes visuales, lo que se utiliza en aplicaciones como el reconocimiento de objetos y el an\u00c3\u00a1lisis de im\u00c3\u00a1genes m\u00c3\u00a9dicas."
         },
         {
-            "question": "¿Cuál es la diferencia entre la IA y la automatización?",
-            "answer": "La IA implica la capacidad de las máquinas para aprender y tomar decisiones basadas en datos, mientras que la automatización se refiere a la ejecución de tareas predefinidas de manera programada sin necesidad de aprendizaje o toma de decisiones."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es la diferencia entre la IA y la automatizaci\u00c3\u00b3n?",
+            "answer": "La IA implica la capacidad de las m\u00c3\u00a1quinas para aprender y tomar decisiones basadas en datos, mientras que la automatizaci\u00c3\u00b3n se refiere a la ejecuci\u00c3\u00b3n de tareas predefinidas de manera programada sin necesidad de aprendizaje o toma de decisiones."
         },
         {
-            "question": "¿Cómo se abordan los problemas éticos en la IA?",
-            "answer": "Los problemas éticos en la IA se abordan mediante la implementación de regulaciones, estándares éticos y el desarrollo de algoritmos transparentes y justos que eviten sesgos y discriminación."
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo se abordan los problemas \u00c3\u00a9ticos en la IA?",
+            "answer": "Los problemas \u00c3\u00a9ticos en la IA se abordan mediante la implementaci\u00c3\u00b3n de regulaciones, est\u00c3\u00a1ndares \u00c3\u00a9ticos y el desarrollo de algoritmos transparentes y justos que eviten sesgos y discriminaci\u00c3\u00b3n."
         },
         {
-            "question": "¿Cuál es la importancia de los datos en la IA?",
-            "answer": "Los datos son fundamentales para la IA, ya que los algoritmos de aprendizaje automático dependen de información precisa y variada para tomar decisiones y mejorar su rendimiento."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es la importancia de los datos en la IA?",
+            "answer": "Los datos son fundamentales para la IA, ya que los algoritmos de aprendizaje autom\u00c3\u00a1tico dependen de informaci\u00c3\u00b3n precisa y variada para tomar decisiones y mejorar su rendimiento."
         },
         {
-            "question": "¿Cuál es la relación entre la IA y el Internet de las cosas (IoT)?",
-            "answer": "La IA y el IoT están interconectados, ya que la IA puede analizar los datos generados por dispositivos IoT para tomar decisiones inteligentes y mejorar la automatización en hogares, ciudades y empresas."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es la relaci\u00c3\u00b3n entre la IA y el Internet de las cosas (IoT)?",
+            "answer": "La IA y el IoT est\u00c3\u00a1n interconectados, ya que la IA puede analizar los datos generados por dispositivos IoT para tomar decisiones inteligentes y mejorar la automatizaci\u00c3\u00b3n en hogares, ciudades y empresas."
         },
         {
-            "question": "¿Qué desafíos enfrenta la IA en la ciberseguridad?",
-            "answer": "Los desafíos en ciberseguridad incluyen la detección de amenazas, la lucha contra ataques de ingeniería social y la protección de sistemas de IA contra ataques adversarios que intentan engañar a los modelos."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 desaf\u00c3\u00ados enfrenta la IA en la ciberseguridad?",
+            "answer": "Los desaf\u00c3\u00ados en ciberseguridad incluyen la detecci\u00c3\u00b3n de amenazas, la lucha contra ataques de ingenier\u00c3\u00ada social y la protecci\u00c3\u00b3n de sistemas de IA contra ataques adversarios que intentan enga\u00c3\u00b1ar a los modelos."
         },
         {
-            "question": "¿Qué es el aprendizaje profundo (deep learning)?",
-            "answer": "El aprendizaje profundo es una subdisciplina del aprendizaje automático que utiliza redes neuronales artificiales con múltiples capas para resolver problemas complejos, como el reconocimiento de voz y de imágenes."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 es el aprendizaje profundo (deep learning)?",
+            "answer": "El aprendizaje profundo es una subdisciplina del aprendizaje autom\u00c3\u00a1tico que utiliza redes neuronales artificiales con m\u00c3\u00baltiples capas para resolver problemas complejos, como el reconocimiento de voz y de im\u00c3\u00a1genes."
         },
         {
-            "question": "¿Cuál es el papel de la IA en la educación?",
-            "answer": "La IA en educación se utiliza para la personalización del aprendizaje, la creación de contenido educativo, la evaluación automatizada y la identificación de áreas de mejora en el proceso de enseñanza-aprendizaje."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el papel de la IA en la educaci\u00c3\u00b3n?",
+            "answer": "La IA en educaci\u00c3\u00b3n se utiliza para la personalizaci\u00c3\u00b3n del aprendizaje, la creaci\u00c3\u00b3n de contenido educativo, la evaluaci\u00c3\u00b3n automatizada y la identificaci\u00c3\u00b3n de \u00c3\u00a1reas de mejora en el proceso de ense\u00c3\u00b1anza-aprendizaje."
         },
         {
-            "question": "¿Qué es el procesamiento de texto en la IA?",
-            "answer": "El procesamiento de texto en la IA se refiere a la capacidad de las máquinas para analizar y comprender el lenguaje escrito. Esto se utiliza en tareas como la clasificación de documentos y la generación de resúmenes."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 es el procesamiento de texto en la IA?",
+            "answer": "El procesamiento de texto en la IA se refiere a la capacidad de las m\u00c3\u00a1quinas para analizar y comprender el lenguaje escrito. Esto se utiliza en tareas como la clasificaci\u00c3\u00b3n de documentos y la generaci\u00c3\u00b3n de res\u00c3\u00bamenes."
         },
         {
-            "question": "¿Cuál es la importancia de la IA en el comercio electrónico?",
-            "answer": "La IA se utiliza en el comercio electrónico para recomendaciones personalizadas de productos, chatbots de servicio al cliente y la optimización de precios y estrategias de marketing."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es la importancia de la IA en el comercio electr\u00c3\u00b3nico?",
+            "answer": "La IA se utiliza en el comercio electr\u00c3\u00b3nico para recomendaciones personalizadas de productos, chatbots de servicio al cliente y la optimizaci\u00c3\u00b3n de precios y estrategias de marketing."
         },
         {
-            "question": "¿Qué es el aprendizaje por refuerzo en la IA?",
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 es el aprendizaje por refuerzo en la IA?",
             "answer": "El aprendizaje por refuerzo es un enfoque de IA en el que los agentes toman decisiones en un entorno y reciben recompensas o castigos. Aprenden a maximizar las recompensas a lo largo del tiempo."
         },
         {
-            "question": "¿Cuál es el impacto de la IA en la industria de los videojuegos?",
-            "answer": "La IA se utiliza en los videojuegos para crear personajes no jugadores (NPC) inteligentes, mejorar la jugabilidad y proporcionar experiencias de juego más realistas y desafiantes."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el impacto de la IA en la industria de los videojuegos?",
+            "answer": "La IA se utiliza en los videojuegos para crear personajes no jugadores (NPC) inteligentes, mejorar la jugabilidad y proporcionar experiencias de juego m\u00c3\u00a1s realistas y desafiantes."
         },
         {
-            "question": "¿Cómo se utiliza la IA en la detección de fraudes financieros?",
-            "answer": "La IA se utiliza para analizar patrones de transacciones financieras y detectar actividades fraudulentas, como el robo de tarjetas de crédito o el lavado de dinero."
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo se utiliza la IA en la detecci\u00c3\u00b3n de fraudes financieros?",
+            "answer": "La IA se utiliza para analizar patrones de transacciones financieras y detectar actividades fraudulentas, como el robo de tarjetas de cr\u00c3\u00a9dito o el lavado de dinero."
         },
         {
-            "question": "¿Cuál es el concepto de inteligencia artificial estrecha (IA estrecha)?",
-            "answer": "La IA estrecha se refiere a sistemas de IA que están diseñados para tareas específicas y no tienen la capacidad de aprender o realizar tareas fuera de su dominio."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el concepto de inteligencia artificial estrecha (IA estrecha)?",
+            "answer": "La IA estrecha se refiere a sistemas de IA que est\u00c3\u00a1n dise\u00c3\u00b1ados para tareas espec\u00c3\u00adficas y no tienen la capacidad de aprender o realizar tareas fuera de su dominio."
         },
         {
-            "question": "¿Cuál es la relación entre la IA y la automatización de procesos robóticos (RPA)?",
-            "answer": "La IA y la RPA están relacionadas ya que la IA puede mejorar los procesos RPA al agregar capacidades de toma de decisiones y adaptación en tiempo real a las tareas automatizadas."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es la relaci\u00c3\u00b3n entre la IA y la automatizaci\u00c3\u00b3n de procesos rob\u00c3\u00b3ticos (RPA)?",
+            "answer": "La IA y la RPA est\u00c3\u00a1n relacionadas ya que la IA puede mejorar los procesos RPA al agregar capacidades de toma de decisiones y adaptaci\u00c3\u00b3n en tiempo real a las tareas automatizadas."
         },
         {
-            "question": "¿Cuál es el papel de la IA en la investigación científica?",
-            "answer": "La IA se utiliza en la investigación científica para analizar datos complejos, simular sistemas naturales, descubrir patrones en grandes conjuntos de datos y acelerar el descubrimiento en diversas disciplinas científicas."
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es el papel de la IA en la investigaci\u00c3\u00b3n cient\u00c3\u00adfica?",
+            "answer": "La IA se utiliza en la investigaci\u00c3\u00b3n cient\u00c3\u00adfica para analizar datos complejos, simular sistemas naturales, descubrir patrones en grandes conjuntos de datos y acelerar el descubrimiento en diversas disciplinas cient\u00c3\u00adficas."
         },
         {
-            "question": "¿Qué avances se esperan en la IA en los próximos años?",
-            "answer": "Se esperan avances en la IA, como la IA cuántica, la IA explicativa, la IA ética y la mejora en la comprensión y generación de lenguaje natural, que tendrán un impacto significativo en diversos campos."
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 avances se esperan en la IA en los pr\u00c3\u00b3ximos a\u00c3\u00b1os?",
+            "answer": "Se esperan avances en la IA, como la IA cu\u00c3\u00a1ntica, la IA explicativa, la IA \u00c3\u00a9tica y la mejora en la comprensi\u00c3\u00b3n y generaci\u00c3\u00b3n de lenguaje natural, que tendr\u00c3\u00a1n un impacto significativo en diversos campos."
         },
-
         {
-            "question": "¿Si quiero adquirir un curso adicional como hago?",
+            "question": "\u00c2\u00bfSi quiero adquirir un curso adicional como hago?",
             "answer": "Primero consultarlo con los asistentes y luego solicitarlo"
+        },
+        {
+            "question": "hola",
+            "answer": "Hola, en que puedo ayudarte?"
         }
     ]
 }
